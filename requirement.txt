@@ -1,0 +1,10 @@
+flask
+pypdf
+chromadb==0.4.24
+sentence-transformers
+google-generativeai
+tqdm
+python-dotenv
+reportlab
+ weasyprint
+ 
