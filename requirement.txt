@@ -6,5 +6,4 @@ google-generativeai
 tqdm
 python-dotenv
 reportlab
- weasyprint
- 
+weasyprint
